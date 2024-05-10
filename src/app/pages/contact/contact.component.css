@@ -1,0 +1,12 @@
+form{
+    width:50%;
+}
+img{
+    height: 550px;
+    width:100%;
+}
+h1{
+    text-align:center;
+    text-align-last: left;
+    color: black;
+}
